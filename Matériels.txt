@@ -1,0 +1,13 @@
+Comment cela fonctionne ?
+
+Il vous faut:
+1 Carte Arduino
+1 Plaque d'essai
+Cables de liaison
+1 Potentiomètre de 50k-ohm
+1 Capteur d'humidité DHT11 a 3 ou 4 pins
+
+Ce sketch utilise la bibliothèque LiquidCrystal, qui est fournie avec l'IDE Arduino
+La bibliothèque DHT, que vous devrez télécharger et installer à partir de 
+https://docs.arduino.cc/libraries/dht-sensor-library/#Releases
+La bibliothèque DHT contrôle la fonction du capteur, et la bibliothèque LiquidCrystal affiche les mesures sur l'écran.

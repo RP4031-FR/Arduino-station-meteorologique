@@ -1,0 +1,35 @@
+DHT11 A    |   ARDUINO
+4 PINS     |
+           |
+Pin 1      |Pin 2
+Pin 2      |+5V
+Pin 3      |Non utilisée
+Pin 4      |GND
+
+
+DHT11 A    |   ARDUINO
+3 PINS     |
+           |
+Pin 1      |Pin 2
+Pin 2      |+5V
+Pin 3      |GND
+
+
+Écran LCD         |ARDUINO
+
+1 VSS             |GND
+2 VDD             |+5V
+3 VBO Contrast    |Pin central du potentiomètre
+4 RS              |Pin 12
+5 R/W             |GND
+6 Enable          |Pin 11
+7 D0              |Non utilisée
+8 D1              |Non utilisée
+9 D2              |Non utilisée
+10 D3             |Non utilisée
+11 D4             |Pin 5
+12 D5             |Pin 4
+13 D6             |Pin 13
+14 D7             |Pin 3
+15 A BcL+         |+5V
+16 K BcL-         |GND
