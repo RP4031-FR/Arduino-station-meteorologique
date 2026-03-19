@@ -6,8 +6,9 @@ Il vous faut:
 Cables de liaison
 1 Potentiomètre de 50k-ohm
 1 Capteur d'humidité DHT11 a 3 ou 4 pins
+1 écran LCD HC44780 avec ses 16 broche
 
 Ce sketch utilise la bibliothèque LiquidCrystal, qui est fournie avec l'IDE Arduino
-La bibliothèque DHT, que vous devrez télécharger et installer à partir de 
-https://docs.arduino.cc/libraries/dht-sensor-library/#Releases
+La bibliothèque DHT, que vous devrez télécharger à partir de l'IDE Arduino
+dht-sensor-library de Adafruit (+ d'info sur : https://github.com/adafruit/DHT-sensor-library )
 La bibliothèque DHT contrôle la fonction du capteur, et la bibliothèque LiquidCrystal affiche les mesures sur l'écran.
