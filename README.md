@@ -4,6 +4,8 @@ Attention : Il peut avoir des problèmes de codes !!!
 
 Le code fonctionne maintenant dans le serial monitor et l'écran lcd ;)
 
+le projet est disponible sur Wokwi sauf que le dht 11 est remplacer par un dht 22 mais ses la même chose : https://wokwi.com/projects/461376543287391233
+
 # UN GRAND MERCI A LA FABRIQUE DU LOCH 
 Merci de m'avoir aidé pour les soudures, cablages et autre 🥇
 Et encore MERCI a Florent pour son aide précieuse 😊
